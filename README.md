@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Lathif Ramadhan
 *Architecting Intelligent Systems with Data, from Concept to Deployment.*
 
