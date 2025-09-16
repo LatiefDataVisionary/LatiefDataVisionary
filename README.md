@@ -5,7 +5,7 @@ layout: default
 # Lathif Ramadhan
 *Architecting Intelligent Systems with Data, from Concept to Deployment.*
 
-[💼 LinkedIn](https://www.linkedin.com/in/lathiframadhan/) | [👾 GitHub](https://github.com/LatiefDataVisionary) | [✉️ Email](mailto:your.email@example.com)
+[💼 LinkedIn](https://www.linkedin.com/in/lathiframadhan/) | [👾 GitHub](https://github.com/LatiefDataVisionary) | [✉️ Email](mailto:datasciencelatief@gmail.com)
 
 ---
 
@@ -95,4 +95,4 @@ I am actively seeking challenging remote internship or part-time opportunities w
 
 If you're building something amazing, let's connect.
 
-**[Say Hello → your.email@example.com](mailto:your.email@example.com)**```
+**[Say Hello → datasciencelatief@gmail.com](mailto:datasciencelatief@gmail.com)**```
