@@ -7,13 +7,14 @@
 
 > My mission is to translate raw, complex data into intelligent, actionable solutions that drive growth and solve real-world problems. I build, not just analyze.
 
-As a final-year Data Science honours student with a **3.95 GPA**, my academic foundation is solid, but my true passion lies in the practical application of technology. I thrive on the entire project lifecycle: from defining a problem and engineering a robust data pipeline, to developing predictive models and deploying cutting-edge Generative AI systems. I believe in **end-to-end ownership** and pragmatic innovation.
+As a 3rd Data Science honours student with a **3.95 GPA**, my academic foundation is solid, but my true passion lies in the practical application of technology. I thrive on the entire project lifecycle: from defining a problem and engineering a robust data pipeline, to developing predictive models and deploying cutting-edge Generative AI systems. I believe in **end-to-end ownership** and pragmatic innovation.
 
 ---
 
 ### My Philosophy
 
-*   **Data as a Language:** I treat data not just as numbers, but as a language that tells a story. My goal is to become fluent in that language to uncover narratives that others might miss.
+*   **Data as a Language:**
+I treat data not just as numbers, but as a language that tells a story. My goal is to become fluent in that language to uncover narratives that others might miss.
 *   **Models as Tools, Not Oracles:** I build machine learning models as powerful tools to solve specific problems, rigorously testing and evaluating them to understand their strengths and limitations.
 *   **Pragmatic Innovation:** I am deeply fascinated by the frontier of AI, especially LLMs. I focus on applying these powerful technologies to create tangible business value, not just for the sake of novelty.
 
